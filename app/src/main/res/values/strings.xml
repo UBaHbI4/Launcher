@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Launcher</string>
+
+    <string-array name="array_name">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+</resources>
